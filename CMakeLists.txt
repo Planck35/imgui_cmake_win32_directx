@@ -10,7 +10,3 @@ target_link_libraries(example PRIVATE IMGUI
         d3d11.lib
         dwmapi.lib
         d3dcompiler.lib)
-
-
-
-
